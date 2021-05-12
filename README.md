@@ -1,2 +1,2 @@
 # westbengal-vaccin-slot
-Find the vaccin slot in west bengal
+Find the vaccine slot in west bengal
