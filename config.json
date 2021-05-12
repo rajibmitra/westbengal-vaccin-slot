@@ -1,5 +1,6 @@
+
 {
-  "districtId": "<DISTRICT_ID>",
+  "districtId": "713", 
   "authToken": "<TWILIO_AUTH_TOKEN>",
   "accountSID": "<TWILIO_ACCOUNT_SID>",
   "twilioPhone": "<TWILIO_PHONE_NO>",
