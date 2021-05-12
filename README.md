@@ -8,3 +8,5 @@ a.  `pip3 install -r requirments.txt`
 
 ## idea
 users will send a sms like "find slot to xxxxx" and will receive a message to phone with the available slots.
+
+this is intended for birbhum district only.
